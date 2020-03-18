@@ -57,7 +57,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "http://127.0.0.1:5000/static/image/";
+/******/ 	__webpack_require__.p = "http://127.0.0.1:8080/static/image/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 70);
@@ -1184,7 +1184,7 @@ var Topleft = function (_React$Component) {
         }
 
         return _ret = (_temp = (_this = (0, _possibleConstructorReturn3.default)(this, (_ref = Topleft.__proto__ || (0, _getPrototypeOf2.default)(Topleft)).call.apply(_ref, [this].concat(args))), _this), _this.goAcount = function () {
-            window.location.href = "http://127.0.0.1:5000/#/acount";
+            window.location.href = "http://127.0.0.1:8080/#/acount";
         }, _temp), (0, _possibleConstructorReturn3.default)(_this, _ret);
     }
 
@@ -32705,7 +32705,7 @@ var App = function (_React$Component) {
                                         { className: _top2.default.divlinktop },
                                         _react2.default.createElement(
                                             'a',
-                                            { href: 'http://127.0.0.1:5000/#/acount', className: _top2.default.linktop },
+                                            { href: 'http://127.0.0.1:8080/#/acount', className: _top2.default.linktop },
                                             '\u767B\u5F55'
                                         )
                                     ),
@@ -32714,7 +32714,7 @@ var App = function (_React$Component) {
                                         { className: _top2.default.divlinktop },
                                         _react2.default.createElement(
                                             'a',
-                                            { href: 'http://127.0.0.1:5000/#/acount', className: _top2.default.linktop },
+                                            { href: 'http://127.0.0.1:8080/#/acount', className: _top2.default.linktop },
                                             '\u6CE8\u518C'
                                         )
                                     ),
@@ -32723,7 +32723,7 @@ var App = function (_React$Component) {
                                         { className: _top2.default.divlinktop },
                                         _react2.default.createElement(
                                             'a',
-                                            { href: 'http://127.0.0.1:5000/#/price', className: _top2.default.linktop },
+                                            { href: 'http://127.0.0.1:8080/#/price', className: _top2.default.linktop },
                                             '\u5145\u503C'
                                         )
                                     )
@@ -36773,7 +36773,7 @@ var Acount = function (_React$Component) {
         var _this = (0, _possibleConstructorReturn3.default)(this, (Acount.__proto__ || (0, _getPrototypeOf2.default)(Acount)).call(this));
 
         _this.getVerify = function () {
-            var url = "http://127.0.0.1:5000/verify/";
+            var url = "http://127.0.0.1:8080/verify/";
             fetch(url, {
                 method: 'POST',
                 body: {},
@@ -36790,7 +36790,7 @@ var Acount = function (_React$Component) {
                 // });
             }).then(function (data) {
                 _this.setState({
-                    image: "http://127.0.0.1:5000/static/image/verify/" + data + ".png"
+                    image: "http://127.0.0.1:8080/static/image/verify/" + data + ".png"
                 });
             }).catch(function (err) {
                 console.log("Fetch错误:" + err);
@@ -36807,7 +36807,7 @@ var Acount = function (_React$Component) {
             formData.append("username", _this.refs.username.value);
             formData.append("password", _this.refs.password.value);
 
-            var url = "http://127.0.0.1:5000/" + "login/";
+            var url = "http://127.0.0.1:8080/" + "login/";
 
             fetch(url, {
                 method: 'POST',

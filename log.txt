@@ -1,0 +1,170 @@
+2020-03-17 21:10:00 - one - INFO - ��������ʼ���ɹ�
+2020-03-17 21:10:00 - werkzeug - INFO -  * Restarting with stat
+2020-03-17 21:10:01 - one - INFO - ��������ʼ���ɹ�
+2020-03-17 21:10:01 - werkzeug - WARNING -  * Debugger is active!
+2020-03-17 21:10:01 - werkzeug - INFO -  * Debugger PIN: 338-086-128
+2020-03-17 21:10:01 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-17 21:10:18 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:18] "GET / HTTP/1.1" 200 -
+2020-03-17 21:10:18 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:18] "GET /static/js/bundle.js HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/6465b292662d66eda43eae301a6249e0.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/9e2fe2291d0be54047e71baa121a82c3.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/437d6448a5eac8122e61348f95e2f887.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/458e994959e57f4af6f4b3ecb0c419f6.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/661d5c2abb656513ad9c885e40eaee30.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/ca26a83bc384d33be18e1e110e1f6ae3.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/0c67fe6fb593ccc5fb62c4e09a8f7e94.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/ed0f2d4555de7d2fec42098fbe85545d.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/de9747fe6ad3f2454eb818f676c3b32f.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/0424a65d098c7cbb67694dbf71ecce14.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /static/image/5f18d3bf4ebbca3987470dc12fec32c5.png HTTP/1.1" 200 -
+2020-03-17 21:10:29 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:29] "GET /favicon.ico HTTP/1.1" 404 -
+2020-03-17 21:10:36 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:10:36] "GET / HTTP/1.1" 200 -
+2020-03-17 21:11:11 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:11] "POST /verify/ HTTP/1.1" 500 -
+2020-03-17 21:11:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:43] "POST /verify/ HTTP/1.1" 500 -
+2020-03-17 21:11:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:44] "POST /verify/ HTTP/1.1" 500 -
+2020-03-17 21:11:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:44] "GET / HTTP/1.1" 200 -
+2020-03-17 21:11:45 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:45] "POST /verify/ HTTP/1.1" 500 -
+2020-03-17 21:11:46 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:46] "GET / HTTP/1.1" 200 -
+2020-03-17 21:11:59 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:11:59] "GET /static/js/react-router-dom.js.map HTTP/1.1" 404 -
+2020-03-17 21:12:05 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:05] "POST /verify/ HTTP/1.1" 500 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/85ecb86da5786621925828f24ac1ef96.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/5422de158ec47a5129c185ff296211b7.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/8425f842a6944f7d86ba0323c43eb45c.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/57cd05af21b9689259cdd7cbe5c9e6fb.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/21defbfe62615b84d33f1b656d09902c.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/95b09b2ccf858108c33d46054e472538.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/94a6fbf88d1367403d223875db02d291.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/cd23cefb1a39ecdcfc8d7096301b1db4.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/ecabbc26873406b447216e802e779858.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/23263ad42cd932fe2fdd672d2f586843.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/4c572646379abf5d29f1efca64df033a.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/a06162be6a8eb2dabb96395924f8c786.png HTTP/1.1" 200 -
+2020-03-17 21:12:41 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:41] "GET /static/image/2434b4b002eb2ed84228038bf57dc5e4.png HTTP/1.1" 200 -
+2020-03-17 21:12:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:42] "GET /static/image/43945de9edb393a5d5f98613d38065e0.png HTTP/1.1" 200 -
+2020-03-17 21:12:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:42] "GET /static/image/042c053c10398177092295c2f91b7d2b.png HTTP/1.1" 200 -
+2020-03-17 21:12:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:42] "GET /static/image/a3c0fe65b5e15e9c0396ff48061fb15c.png HTTP/1.1" 200 -
+2020-03-17 21:12:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:42] "GET /static/image/636772e70c6d9c5f0488b84ee602340e.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/b47a453d051cdf287978ebcc7a7de513.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/6c88764628fe84b5fdac4b32bde174b1.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/b6fac5092366797870c4d8191ccf5555.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/dcf89f7bea57665fa3fbf91a4a47d5d6.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/c95a9cbbba7f6cd1ebb85b25cba2ff82.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/a15a845f4e32944d4e9636998aa05c3d.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/fc51a8e82824e0589b1c39dd492a1172.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/7b467a992f54c047fa4a05349323792e.png HTTP/1.1" 200 -
+2020-03-17 21:12:43 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:43] "GET /static/image/165b58bbba691977f0663e647bda0aa1.png HTTP/1.1" 200 -
+2020-03-17 21:12:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:44] "GET /static/image/75ba2c3a2e91383a932d24701cde77a8.png HTTP/1.1" 200 -
+2020-03-17 21:12:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:44] "GET /static/image/bf0c44b7786ec1d9be8db8cec80ce56f.png HTTP/1.1" 200 -
+2020-03-17 21:12:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:44] "GET /static/image/9c6ec989362ea020d476254b8dacc611.png HTTP/1.1" 200 -
+2020-03-17 21:12:44 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:44] "GET /static/image/3af42309e085e759adfb2742cc5b8b27.png HTTP/1.1" 200 -
+2020-03-17 21:12:55 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:12:55] "GET /static/image/a73923d9c00779d2773f68f94a8f3b27.png HTTP/1.1" 200 -
+2020-03-17 21:13:00 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:00] "GET /static/image/5cf323bc9c97e55b76c014ee47bcb57e.png HTTP/1.1" 200 -
+2020-03-17 21:13:05 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:05] "GET /static/image/161ed1c599d168b691401837a371eb5a.png HTTP/1.1" 200 -
+2020-03-17 21:13:10 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:10] "GET /static/image/f35c1225d68784290bcb55dc228c8d5e.png HTTP/1.1" 200 -
+2020-03-17 21:13:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:42] "GET / HTTP/1.1" 200 -
+2020-03-17 21:13:42 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:42] "GET /static/js/bundle.js HTTP/1.1" 200 -
+2020-03-17 21:13:54 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:13:54] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:06 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:06] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:15 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:15] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:17 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:17] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:30 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:30] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:34 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:34] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:36 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:36] "GET / HTTP/1.1" 200 -
+2020-03-17 21:14:49 - werkzeug - INFO - 127.0.0.1 - - [17/Mar/2020 21:14:49] "GET / HTTP/1.1" 200 -
+2020-03-18 12:28:01 - one - INFO - 服务器初始化成功
+2020-03-18 12:28:01 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 12:28:01 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 12:28:01 - one - INFO - 服务器初始化成功
+2020-03-18 12:28:01 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 12:28:01 - werkzeug - INFO -  * Debugger PIN: 626-851-430
+2020-03-18 12:36:51 - one - INFO - 服务器初始化成功
+2020-03-18 12:36:51 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 12:36:51 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 12:36:51 - one - INFO - 服务器初始化成功
+2020-03-18 12:36:51 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 12:36:51 - werkzeug - INFO -  * Debugger PIN: 587-828-961
+2020-03-18 14:02:46 - one - INFO - 服务器初始化成功
+2020-03-18 14:02:46 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 14:02:46 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 14:02:47 - one - INFO - 服务器初始化成功
+2020-03-18 14:02:47 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 14:02:47 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 14:03:00 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:03:00] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-18 14:03:00 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:03:00] "[37mGET /static/js/kami.js HTTP/1.1[0m" 200 -
+2020-03-18 14:03:01 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:03:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-03-18 14:40:16 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:16] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-18 14:40:16 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:16] "[37mGET /static/js/kami.js HTTP/1.1[0m" 200 -
+2020-03-18 14:40:26 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:26] "[37mGET /static/image/43749b2d544fcaf7328ca97dd2da1a10.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:29 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:29] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 14:40:29 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:29] "[37mGET /static/js/bundle.js HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/6465b292662d66eda43eae301a6249e0.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/9e2fe2291d0be54047e71baa121a82c3.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/437d6448a5eac8122e61348f95e2f887.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/458e994959e57f4af6f4b3ecb0c419f6.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/0c67fe6fb593ccc5fb62c4e09a8f7e94.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/ca26a83bc384d33be18e1e110e1f6ae3.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/661d5c2abb656513ad9c885e40eaee30.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/de9747fe6ad3f2454eb818f676c3b32f.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/0424a65d098c7cbb67694dbf71ecce14.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/ed0f2d4555de7d2fec42098fbe85545d.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:40 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:40] "[37mGET /static/image/5f18d3bf4ebbca3987470dc12fec32c5.png HTTP/1.1[0m" 200 -
+2020-03-18 14:40:45 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:40:45] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 14:41:08 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:41:08] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 14:41:10 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:41:10] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 14:43:43 - one - INFO - 服务器初始化成功
+2020-03-18 14:43:43 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 14:43:43 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 14:43:43 - one - INFO - 服务器初始化成功
+2020-03-18 14:43:43 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 14:43:43 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 14:43:52 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:43:52] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 14:43:52 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:43:52] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 14:43:54 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 14:43:54] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:08 - one - INFO - 服务器初始化成功
+2020-03-18 15:07:08 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 15:07:08 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 15:07:09 - one - INFO - 服务器初始化成功
+2020-03-18 15:07:09 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 15:07:09 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 15:07:11 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:11] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:12 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:12] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 15:07:13 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:13] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:13 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:13] "[37mGET /static/image/verify/1743.png HTTP/1.1[0m" 200 -
+2020-03-18 15:07:14 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:14] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:14 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:14] "[37mGET /static/image/verify/5963.png HTTP/1.1[0m" 200 -
+2020-03-18 15:07:15 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:15] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:15 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:15] "[37mGET /static/image/verify/4477.png HTTP/1.1[0m" 200 -
+2020-03-18 15:07:15 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:15] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:15 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:15] "[37mGET /static/image/verify/7442.png HTTP/1.1[0m" 200 -
+2020-03-18 15:07:17 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:17] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:07:17 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:07:17] "[37mGET /static/image/verify/2250.png HTTP/1.1[0m" 200 -
+2020-03-18 15:08:12 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:08:12] "[37mPOST /verify/ HTTP/1.1[0m" 200 -
+2020-03-18 15:08:12 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:08:12] "[37mGET /static/image/verify/3966.png HTTP/1.1[0m" 200 -
+2020-03-18 15:11:44 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:11:44] "[37mPOST /login/ HTTP/1.1[0m" 200 -
+2020-03-18 15:12:01 - werkzeug - INFO -  * Detected change in '/home/project/flaskproject/one.py', reloading
+2020-03-18 15:12:01 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 15:12:01 - one - INFO - 服务器初始化成功
+2020-03-18 15:12:01 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 15:12:01 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 15:12:03 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:12:03] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 15:12:04 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:12:04] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 15:12:08 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:12:08] "[37mPOST /login/ HTTP/1.1[0m" 200 -
+2020-03-18 15:15:50 - werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-03-18 15:15:50 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 15:15:50 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 15:15:50 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 15:15:59 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:15:59] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 15:16:02 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:16:02] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 15:16:06 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:16:06] "[35m[1mPOST /login/ HTTP/1.1[0m" 500 -
+2020-03-18 15:17:08 - werkzeug - INFO -  * Detected change in '/home/project/flaskproject/one.py', reloading
+2020-03-18 15:17:08 - werkzeug - INFO -  * Restarting with stat
+2020-03-18 15:17:08 - werkzeug - WARNING -  * Debugger is active!
+2020-03-18 15:17:08 - werkzeug - INFO -  * Debugger PIN: 124-039-196
+2020-03-18 15:17:09 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:17:09] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 15:17:09 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:17:09] "[33mGET /static/js/react-router-dom.js.map HTTP/1.1[0m" 404 -
+2020-03-18 15:17:12 - one - INFO - 账号是:1111111111,密码是:222222222222222
+2020-03-18 15:17:12 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:17:12] "[37mPOST /login/ HTTP/1.1[0m" 200 -
+2020-03-18 15:24:46 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:24:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-18 15:24:49 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:24:49] "[37mGET /getLogin/ HTTP/1.1[0m" 200 -
+2020-03-18 15:24:57 - one - INFO - 账号是:22222222,密码是:333333333333
+2020-03-18 15:24:57 - werkzeug - INFO - 10.0.2.2 - - [18/Mar/2020 15:24:57] "[37mPOST /login/ HTTP/1.1[0m" 200 -

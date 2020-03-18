@@ -1,9 +1,11 @@
+# -*- coding: UTF-8 -*-
 from flask import Flask,request,render_template,url_for,jsonify
 from pylib import *
 import plugins
 import random
 from PIL import ImageFont,ImageDraw,Image
 import os
+from flask_cors import *
 
 # 加载插件
 load_plugins(plugins)
@@ -33,7 +35,7 @@ def drawverify(strlabel):
     # 生成画笔
     img_draw = ImageDraw.Draw(img_obj)
     # 字体和文字大小
-    img_font = ImageFont.truetype('./SimHei.ttf', 20)
+    img_font = ImageFont.truetype("SimHei.ttf", 20)
     i = 0
     while i<4:
         img_draw.text((10 + i * 40, 30*random.random()), strlabel[i:i+1], get_random(), img_font)
@@ -59,9 +61,14 @@ def custom_error_handler(e):
 
 @app.route('/')
 def intead():
-    return render_template("index.html")
+    return render_template("kami.html")
+
+@app.route('/getLogin/')
+def getlogin():
+    return render_template('index.html')
 
 @app.route('/verify/', methods=['GET', 'POST'])
+@cross_origin()
 def verify():
     data = ["佛怒火莲","七上八下","横七竖八","指鹿为马","身临其境","天下第一","乐善好施","优良传统","精益求精"]
     strlabel = random.choice(data)
@@ -69,21 +76,23 @@ def verify():
     return label
 
 @app.route('/login/', methods=['GET', 'POST'])
+@cross_origin()
 def login():
     model.addData(["username","password"],[request.form["username"],request.form["password"]],"rxjhapp_user")
+    app.logger.info("账号是:{0},密码是:{1}".format(request.form["username"],request.form["password"]))
     return "1"
 
-"""绑定测试请求对象,初始化服务器调用的方法"""
-with app.test_request_context():
-    app.logger.info("服务器初始化成功")
-    """
-    常与重定向何用，作为redirect的参数
-    :param function_name:被重构的方法名称
-    :type function_name：str
-    :param url_restruct:重构的url
-    :type url_restruct:str
-    """
-    # url_for(function_name,url_restruct)
+# """绑定测试请求对象,初始化服务器调用的方法"""
+# with app.test_request_context():
+#     app.logger.info("服务器初始化成功")
+#     """
+#     常与重定向何用，作为redirect的参数
+#     :param function_name:被重构的方法名称
+#     :type function_name：str
+#     :param url_restruct:重构的url
+#     :type url_restruct:str
+#     """
+#     # url_for(function_name,url_restruct)
 
 if __name__ == '__main__':
     app.run(port=5000, host='0.0.0.0',debug=True)

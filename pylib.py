@@ -12,7 +12,7 @@ def initlog(logger=None,use_color=True):
     """
     fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     datefmt = '%Y-%m-%d %H:%M:%S'
-    logpath = r"D:\flaskproject\log.txt"
+    logpath = r"./log.txt"
     if(use_color):
         """此方法仅在控制台输出"""
         coloredlogs.install(logger=logger,fmt=fmt, datefmt=datefmt)

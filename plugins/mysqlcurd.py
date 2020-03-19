@@ -16,13 +16,15 @@ class Model(object):
         self.db = MySQLdb.connect(host,username,password,db,charset="utf8")
         self.cursor = self.db.cursor()
 
-    def execute(self,sql):
+    def execute(self,sql,label=1):
         """
         :param sql:sql语句
         :type sql:str
         """
         try:
             self.cursor.execute(sql)
+            if (label == 0):
+                return self.cursor.fetchall()
             self.db.commit()
         except:
             self.db.rollback()
